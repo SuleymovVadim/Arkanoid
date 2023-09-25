@@ -1,0 +1,4 @@
+﻿  Platform.cpp
+C:\Users\79149\OneDrive\Рабочий стол\Arkanod\Rectangle_objects.h(15,23): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\79149\OneDrive\Рабочий стол\Arkanod\Rectangle_objects.h(15,20): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  Arkanod.vcxproj -> C:\Users\79149\OneDrive\Рабочий стол\Arkanod\x64\Debug\Arkanod.exe
